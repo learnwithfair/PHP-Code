@@ -12,22 +12,15 @@ Thanks for visiting my GitHub account!
 
 
 ## Source Code
-[Download](https://mega.nz/file/MK1xxQqb#kwc_ibL0Gs6SyZdOiAH1zau-i_0NVKmfyIyzimsdAgw)
+[Download](https://mega.nz/folder/BHUTnbCQ#2nmtd4okp1kJC0YtZ2X4iA)
 
 ## Required Software
 - Xampp [Download](https://www.apachefriends.org/download.html)
 - Visual Studio Code  [Download](https://code.visualstudio.com/download)
 
-## Login Dashboard
-- Email: voicetoface@gmail.com
-- Password: 123456
-
-
-## Project Screenshot
-
-|   |   |
-|:---:|:---:|
-|Home|Match Face|
-|![Home](https://github.com/learnwithfair/voiceToFace/blob/main/screenshot/home.png)|![Match](https://github.com/learnwithfair/voiceToFace/blob/main/screenshot/face.png)|
-|Dashboard|Upload Form|
-|![Dashboard](https://github.com/learnwithfair/voiceToFace/blob/main/screenshot/dashboard.png)|![Dashboard](https://github.com/learnwithfair/voiceToFace/blob/main/screenshot/upload.png)|
+## Error Checker
+```bash
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+```
